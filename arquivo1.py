@@ -1,2 +1,2 @@
-# teste print
+# lascou
 print("Hello Word")
